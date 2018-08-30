@@ -1,3 +1,5 @@
+
+
 Hi , I have created my git account and i have started practice on it.
 And i know oneday i will be expert in it with in 5 days.
 Now I have created a branch and i am in win branch.
@@ -18,4 +20,6 @@ and committed it.
 
 now when u will try to merge the win branch with master branch.
 it will give failure.
+
+this is a part of the merge confilct , so i m editing the file in this also.
 
